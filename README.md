@@ -1,6 +1,6 @@
 # [SDF04] CSS Magic Buttons
 
-Welcome to a the CSS Magic Buttons Project! This project focuses on creating three unique animated buttons using CSS. With this challenge, you'll dive into the world of CSS animations, transitions, and interactivity.
+Get ready to create animated buttons using CSS! This project focuses on creating three unique animated buttons using CSS. With this challenge, you'll dive into the world of CSS animations, transitions, and interactivity.
 
 ## Learning Goals
 By completing this project, you will learn to:

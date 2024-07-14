@@ -1,4 +1,4 @@
-# [SDF04] CSS Magic Buttons
+# [SDF05] CSS Magic Buttons
 
 Get ready to create animated buttons using CSS! This project focuses on creating three unique animated buttons using CSS. With this challenge, you'll dive into the world of CSS animations, transitions, and interactivity.
 
@@ -19,7 +19,7 @@ By completing this project, you will learn to:
 
 1. **Starter Code**: Clone the starter code from GitHub for your project. The HTML structure is provided, and you'll focus on adding styles in the `style.css` file.
 
-    - Starter code can be found here: https://github.com/CodeSpace-Academy/Module_4_StudentNo_Classcode_Group_Name-Surname_SDF04
+    - Starter code can be found here: 
 
 2. **Write your CSS Styles**: Create your animations from scratch. You're welcome to go through our curated buttons for inspiration: [View Reference](https://codepen.io/codespace-academy/pen/xxmWrjX). 
 
@@ -29,12 +29,12 @@ By completing this project, you will learn to:
     - Ensure your repository is set to public so it can be accessed by your code coach.
 
 4. **Submit on LMS**:
-    - Submit the link to your GitHub repository on the LMS under the SDF04 project tab.
+    - Submit the link to your GitHub repository on the LMS under the project tab.
 
 Embark on this CSS journey to transform simple buttons into interactive, animated elements. Let your creativity shine and enjoy the process of bringing static elements to life!
 
 
 ## Submission Guidelines
-- Submit the link to your GitHub repository on the LMS under the SDF04 project tab.
+- Submit the link to your GitHub repository on the LMS under the project tab.
 
 Embark on this CSS journey to transform simple buttons into interactive, animated elements. Let your creativity shine and enjoy the process of bringing static elements to life!
